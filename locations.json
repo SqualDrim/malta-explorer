@@ -1,0 +1,682 @@
+[
+    {
+        "id": "blue-grotto",
+        "name": "Blue Grotto",
+        "rating": 4.9,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8219,
+        "lng": 14.4559
+    },
+    {
+        "id": "mdina",
+        "name": "Mdina - The Silent City",
+        "rating": 4.9,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8858,
+        "lng": 14.4031
+    },
+    {
+        "id": "tal-mixta-cave",
+        "name": "Tal-Mixta Cave",
+        "rating": 4.9,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0617,
+        "lng": 14.2831
+    },
+    {
+        "id": "secret-spot-pullicino",
+        "name": "Secret Spot: Cliffside Cave above Pullicino’s Cove",
+        "rating": 4.9,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9175,
+        "lng": 14.3400
+    },
+    {
+        "id": "cave-facing-fungus",
+        "name": "Cave Facing Fungus Rock",
+        "rating": 4.9,
+        "difficulty": "Hard",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0520,
+        "lng": 14.1885
+    },
+    {
+        "id": "anchor-bay",
+        "name": "Anchor Bay & Popeye Cliffs",
+        "rating": 4.9,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9609,
+        "lng": 14.3411
+    },
+    {
+        "id": "wied-il-ghasri",
+        "name": "Wied il-Għasri",
+        "rating": 4.9,
+        "difficulty": "Moderate",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0792,
+        "lng": 14.2272
+    },
+    {
+        "id": "rdum-il-qammieh",
+        "name": "Rdum il-Qammieh Viewpoint",
+        "rating": 4.9,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9706,
+        "lng": 14.3250
+    },
+    {
+        "id": "ras-id-dawwara",
+        "name": "Ras id-Dawwara",
+        "rating": 4.8,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8678,
+        "lng": 14.3529
+    },
+    {
+        "id": "coral-lagoon",
+        "name": "Coral Lagoon",
+        "rating": 4.8,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9978,
+        "lng": 14.3677
+    },
+    {
+        "id": "dingli-cliffs",
+        "name": "Dingli Cliffs",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8524,
+        "lng": 14.3820
+    },
+    {
+        "id": "fort-st-angelo",
+        "name": "Fort of St. Angelo",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8921,
+        "lng": 14.5181
+    },
+    {
+        "id": "victoria-lines",
+        "name": "Victoria Lines - Top of the World",
+        "rating": 4.8,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.9238,
+        "lng": 14.4533
+    },
+    {
+        "id": "inland-sea",
+        "name": "Inland Sea",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0532,
+        "lng": 14.1923
+    },
+    {
+        "id": "blata-tal-melh",
+        "name": "Blata tal-Melħ",
+        "rating": 4.8,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8963,
+        "lng": 14.3296
+    },
+    {
+        "id": "xlendi-bay",
+        "name": "Xlendi Bay",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0305,
+        "lng": 14.2173
+    },
+    {
+        "id": "mini-inland-sea",
+        "name": "Mini Inland Sea",
+        "rating": 4.8,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8230,
+        "lng": 14.4520
+    },
+    {
+        "id": "ghar-hasan",
+        "name": "Għar Ħasan Trail & Irdum ta’ Ħal Far",
+        "rating": 4.8,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8080,
+        "lng": 14.5080
+    },
+    {
+        "id": "hidden-cave-ricasoli",
+        "name": "Hidden Sea Cave near Fort Ricasoli",
+        "rating": 4.8,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8970,
+        "lng": 14.5270
+    },
+    {
+        "id": "santa-maria-caves",
+        "name": "Santa Maria Caves (Comino)",
+        "rating": 4.8,
+        "difficulty": "Moderate",
+        "island": "Comino",
+        "hiddenGem": false,
+        "lat": 36.0180,
+        "lng": 14.3360
+    },
+    {
+        "id": "cittadella",
+        "name": "Cittadella (Victoria, Gozo)",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0463,
+        "lng": 14.2396
+    },
+    {
+        "id": "ramla-bay",
+        "name": "Ramla Bay (Gozo)",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0617,
+        "lng": 14.2843
+    },
+    {
+        "id": "hondoq-ir-rummien",
+        "name": "Hondoq ir-Rummien",
+        "rating": 4.8,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0280,
+        "lng": 14.3235
+    },
+    {
+        "id": "rocky-beach-gnejna",
+        "name": "Hidden Rocky Beach near Gnejna",
+        "rating": 4.8,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9220,
+        "lng": 14.3410
+    },
+    {
+        "id": "qarraba-cliffs",
+        "name": "Qarraba Cliffs",
+        "rating": 4.8,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.9280,
+        "lng": 14.3405
+    },
+    {
+        "id": "il-mara",
+        "name": "Il-Mara",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8115,
+        "lng": 14.5385
+    },
+    {
+        "id": "ras-il-hamrija",
+        "name": "Ras Il-Hamrija Window",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8240,
+        "lng": 14.4440
+    },
+    {
+        "id": "elephant-rock",
+        "name": "Elephant Rock",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Comino",
+        "hiddenGem": true,
+        "lat": 36.0125,
+        "lng": 14.3400
+    },
+    {
+        "id": "wied-il-ghasel",
+        "name": "Wied il-Għasel",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9248,
+        "lng": 14.4287
+    },
+    {
+        "id": "il-gebla-mtaqqba",
+        "name": "Il-Ġebla l-Imtaqqba",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Comino",
+        "hiddenGem": true,
+        "lat": 36.0145,
+        "lng": 14.3225
+    },
+    {
+        "id": "mistra-bay",
+        "name": "Mistra Bay",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9581,
+        "lng": 14.3917
+    },
+    {
+        "id": "birgu",
+        "name": "Birgu (Vittoriosa)",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8885,
+        "lng": 14.5222
+    },
+    {
+        "id": "wied-il-mielah",
+        "name": "Wied il-Mielaħ Window",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0796,
+        "lng": 14.2128
+    },
+    {
+        "id": "la-guardiola",
+        "name": "La Guardiola",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8911,
+        "lng": 14.5152
+    },
+    {
+        "id": "migra-l-ferha",
+        "name": "Miġra l-Ferħa",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8758,
+        "lng": 14.3411
+    },
+    {
+        "id": "fomm-ir-rih",
+        "name": "Fomm ir-Rih",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9072,
+        "lng": 14.3372
+    },
+    {
+        "id": "ta-marija-cave",
+        "name": "Ta’ Marija Cave",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9250,
+        "lng": 14.4270
+    },
+    {
+        "id": "ta-kalanka-cave",
+        "name": "Ta' Kalanka Sea Cave",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8235,
+        "lng": 14.5582
+    },
+    {
+        "id": "ghar-ta-bla-saqaf",
+        "name": "L-Għar ta’ Bla Saqaf",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Comino",
+        "hiddenGem": true,
+        "lat": 36.0121,
+        "lng": 14.3298
+    },
+    {
+        "id": "st-michael-bastion",
+        "name": "St. Michael Bastion",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8844,
+        "lng": 14.5189
+    },
+    {
+        "id": "l-ghawseg",
+        "name": "L-Għawseġ",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8150,
+        "lng": 14.4750
+    },
+    {
+        "id": "carolina-grotto",
+        "name": "Carolina Grotto",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0300,
+        "lng": 14.2150
+    },
+    {
+        "id": "ix-xaqqa",
+        "name": "IX-Xaqqa",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8190,
+        "lng": 14.4560
+    },
+    {
+        "id": "gozo-salt-pans",
+        "name": "Gozo Salt Pans (Xwejni)",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0745,
+        "lng": 14.2385
+    },
+    {
+        "id": "blata-tal-melh-passage",
+        "name": "Blata tal-Melħ Rock Passage",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8963,
+        "lng": 14.3296
+    },
+    {
+        "id": "xlendi-tower-path",
+        "name": "Xlendi Tower Coastal Path",
+        "rating": 4.7,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0280,
+        "lng": 14.2150
+    },
+    {
+        "id": "il-kalanka",
+        "name": "Il-Kalanka",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8233,
+        "lng": 14.5583
+    },
+    {
+        "id": "ghar-santa-katarina",
+        "name": "L-Għar ta' Santa Katarina",
+        "rating": 4.7,
+        "difficulty": "Hard",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0350,
+        "lng": 14.3050
+    },
+    {
+        "id": "tas-simar-arch",
+        "name": "Tas-Simar Natural Arch",
+        "rating": 4.7,
+        "difficulty": "Moderate",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0320,
+        "lng": 14.2900
+    },
+    {
+        "id": "ghar-ir-rih",
+        "name": "Għar ir-Riħ",
+        "rating": 4.6,
+        "difficulty": "Moderate",
+        "island": "Gozo",
+        "hiddenGem": true,
+        "lat": 36.0808,
+        "lng": 14.2297
+    },
+    {
+        "id": "munxar-path",
+        "name": "Munxar Path",
+        "rating": 4.6,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8360,
+        "lng": 14.5640
+    },
+    {
+        "id": "hofriet-window",
+        "name": "Hofriet Window",
+        "rating": 4.6,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8353,
+        "lng": 14.5481
+    },
+    {
+        "id": "natural-window",
+        "name": "Natural Window",
+        "rating": 4.6,
+        "difficulty": "Moderate",
+        "island": "Comino",
+        "hiddenGem": true,
+        "lat": 36.0150,
+        "lng": 14.3300
+    },
+    {
+        "id": "st-marks-tower",
+        "name": "St. Mark's Tower",
+        "rating": 4.6,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9450,
+        "lng": 14.4530
+    },
+    {
+        "id": "fungus-rock",
+        "name": "Fungus Rock",
+        "rating": 4.6,
+        "difficulty": "Easy",
+        "island": "Gozo",
+        "hiddenGem": false,
+        "lat": 36.0526,
+        "lng": 14.1884
+    },
+    {
+        "id": "shrine-mount-carmel",
+        "name": "Shrine of Our Lady of Mount Carmel",
+        "rating": 4.6,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.9146,
+        "lng": 14.4950
+    },
+    {
+        "id": "ras-id-dawwara-cave",
+        "name": "Ras id-Dawwara Cave",
+        "rating": 4.6,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8678,
+        "lng": 14.3529
+    },
+    {
+        "id": "ghajn-tuffieha-cave",
+        "name": "Għajn Tuffieħa Cave",
+        "rating": 4.6,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9320,
+        "lng": 14.3430
+    },
+    {
+        "id": "chinese-garden",
+        "name": "Chinese Garden of Serenity",
+        "rating": 4.6,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8647,
+        "lng": 14.5029
+    },
+    {
+        "id": "paradise-bay",
+        "name": "Paradise Bay",
+        "rating": 4.6,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.9818,
+        "lng": 14.3315
+    },
+    {
+        "id": "babu-valley",
+        "name": "Babu Valley",
+        "rating": 4.6,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8242,
+        "lng": 14.4600
+    },
+    {
+        "id": "argotti-gardens",
+        "name": "Argotti Botanic Gardens",
+        "rating": 4.6,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.8906,
+        "lng": 14.5029
+    },
+    {
+        "id": "imgiebah-beach",
+        "name": "Imġiebaħ Beach",
+        "rating": 4.6,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.9617,
+        "lng": 14.3758
+    },
+    {
+        "id": "popeye-village",
+        "name": "Popeye Village",
+        "rating": 4.5,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": false,
+        "lat": 35.9609,
+        "lng": 14.3411
+    },
+    {
+        "id": "bighi-cot-lift",
+        "name": "Bighi Cot-Lift",
+        "rating": 4.5,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8920,
+        "lng": 14.5260
+    },
+    {
+        "id": "ghar-ic-comb",
+        "name": "Għar iċ-Ċomb",
+        "rating": 4.5,
+        "difficulty": "Moderate",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8300,
+        "lng": 14.5500
+    },
+    {
+        "id": "lower-kalkara-gardens",
+        "name": "Lower Kalkara Gardens",
+        "rating": 4.5,
+        "difficulty": "Easy",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8900,
+        "lng": 14.5290
+    },
+    {
+        "id": "ghar-hanex",
+        "name": "Għar Ħanex",
+        "rating": 4.5,
+        "difficulty": "Hard",
+        "island": "Malta",
+        "hiddenGem": true,
+        "lat": 35.8210,
+        "lng": 14.4530
+    }
+]
