@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+import React, { useMemo, useState, useEffect } from 'react'
 import { Search } from 'lucide-react'
 import LocationCard from './LocationCard'
 import { useApp } from '../../context/AppContext'
@@ -14,12 +14,21 @@ function applyFilters(locations, filters) {
 
 export default function CatalogView({ locations }) {
   const { state } = useApp()
-  const { filters } = state
+  const { filters, activeTab } = state
+
+  // Force a re-render once when the explore tab becomes active,
+  // so the filtered list renders correctly after being hidden at startup.
+  const [ready, setReady] = useState(false)
+  useEffect(() => {
+    if (activeTab === 'explore') setReady(true)
+  }, [activeTab])
 
   const filtered = useMemo(
     () => applyFilters(locations, filters),
-    [locations, filters]
+    [locations, filters, ready]
   )
+
+  if (!ready) return null
 
   if (filtered.length === 0) {
     return (
